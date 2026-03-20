@@ -1,4 +1,4 @@
-# 🎙️ Vocal → Transcription → Notion
+# Agent Talk
 
 Une application web complète qui vous permet d'enregistrer des messages vocaux, de les transcrire automatiquement, de les nettoyer avec l'IA, et de les envoyer directement dans Notion.
 
